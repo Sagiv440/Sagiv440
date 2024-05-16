@@ -12,6 +12,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>C++ Projects</b>
+  - [Tetris](https://github.com/Sagiv440/Tetris)
   - [NES Emulator](https://github.com/Sagiv440/NES_emulator)
   - [Minecraft world Generator (Custom Game Engine OpenGL)](https://github.com/Sagiv440/Minecraft-World-Generator)
 
