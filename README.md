@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sagiv! <br/><a href="https://github.com/Sagiv440">Programmer</a>, <a href="https://github.com/Sagiv440">Game Developer</a></h1>
+<h1>Hi, I'm Sagiv! <br/><a href="https://www.linkedin.com/in/sagiv-reuben-1264341b9/">Programmer</a>, <a href="https://github.com/Sagiv440">Game Developer</a></h1>
 
 <h2>⚡ Game Development Projects:</h2>
 
