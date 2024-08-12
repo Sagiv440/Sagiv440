@@ -1,20 +1,19 @@
-<h1>Hi, I'm Sagiv! <br/><a href="https://www.linkedin.com/in/sagiv-reuben-1264341b9/">Programmer</a>, <a href="https://github.com/Sagiv440">Game Developer</a></h1>
+<h1>Hi, I'm Sagiv! <br/>I'm an independent developer for:<br/> Games, Applications, and Fullstack </h1>
 
-<h2>⚡ Game Development Projects:</h2>
-
-- <b>Unity Game Engine</b>
+<b><h2>⚡ Game Development Projects:</h2></b>
   - [Real Time Strategy Game](https://github.com/Sagiv440/Unity_Strategy)
   - [Game Of Thrones (Hackaton2023)](https://github.com/Sagiv440/Hackaton2023)
   - [Warm The King (GameJam_Jerusalim_2022)](https://github.com/Sagiv440/GameJam_Jerusalim_2022)
   - [Crusader Legacy (GlobalGameJam2023)](https://github.com/Sagiv440/GlobalGameJam2023)
   - [Grampa And Me (GlobalGameJam2024)](https://github.com/TechArtGeorgi/GGJ-2024-Haifa)
  
-<h2>👨‍💻 Software Development Projects:</h2>
-
-- <b>C++ Projects</b>
-  - [Tetris](https://github.com/Sagiv440/Tetris)
+<b><h2>👨‍💻 Application Projects:</h2></b>
+  - [C++ Tetris](https://github.com/Sagiv440/Tetris)
   - [NES Emulator](https://github.com/Sagiv440/NES_emulator)
   - [Minecraft world Generator (Custom Game Engine OpenGL)](https://github.com/Sagiv440/Minecraft-World-Generator)
+ 
+<b><h2>✍ Frontend Projects:</h2></b>
+  - [React Mid Project](https://github.com/Sagiv440/ReactMidProject)
 
 <h2> 🤳 Connect with me:</h2>
 
