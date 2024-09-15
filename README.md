@@ -14,6 +14,7 @@
  
 <b><h2>✍ Frontend Projects:</h2></b>
   - [React Mid Project](https://github.com/Sagiv440/ReactMidProject)
+  - [E-Commerce (React Final Project)](https://github.com/Sagiv440/ReactFinalProject)
 
 <h2> 🤳 Connect with me:</h2>
 
