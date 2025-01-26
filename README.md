@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sagiv! <br/>I'm an independent developer for:<br/> Games, Applications, and Fullstack </h1>
+<h1>Hi, I'm Sagiv! </h1><h2>A passionate developer at heart and in mind. I bring worlds to life with love, dedication, and a touch of creativity.</h2>
 
 <b><h2>🔭 I’m currently working on</h2></b>
 <ul>
