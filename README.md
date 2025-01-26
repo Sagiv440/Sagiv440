@@ -1,10 +1,16 @@
 <h1>Hi, I'm Sagiv! <br/>I'm an independent developer for:<br/> Games, Applications, and Fullstack </h1>
 
+🔭 I’m currently working on
+<b><h2>🔭 I’m currently working on</h2></b>
 <ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
+  <li><b>RoboShift: </b><a href="https://www.youtube.com/watch?v=MKdnPXl3_ng">DevLog</a> <a href="https://www.youtube.com/watch?v=sg_2uD6ezKI">Level Showcase</a><br/>
+    A Sci-fi Shooter that will tack you the depths of dispare as you fight for your very servivile Trapped in a desolate, machine-dominated world, every battle is a struggle, every exploration a risk, and every moment a fight for survival.
+  </li><br/>
+   <li><b>Fish Season:<br/>
+     A mobile game for those who love fishing and blowing up boats while riding the bus. Sail the seas, find your fortune, and oh, don’t forget the fish! 🎣🛥️
+  </li><br/>
 </ul>
+
 <b><h2>⚡ Game Development Projects:</h2></b>
 <ul>
   <li>
