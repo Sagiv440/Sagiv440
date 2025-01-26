@@ -12,13 +12,7 @@
 
 <b><h2>🌱 I’m currently learning</h2></b>
 <ul>
-  <li><b>Web Development both Forntend and Backend Development <br/>
-    <ul>
-      <li><a href = "https://github.com/Sagiv440/ReactMidProject">My First React Project</a></li>
-      <li><a href = "https://github.com/Sagiv440/ReactFinalProject">E-Commerce</a></li>
-    </ul>
-  </li>
-  <br/>
+  <li><b>Fullstack for Web Development</b></li>
 </ul>
 
 <b><h2>⚡ Game Development Projects:</h2></b>
@@ -47,6 +41,12 @@
 <ul>
       <li><a href = "https://github.com/Sagiv440/NES_emulator">NES Emulator</a></li>
       <li><a href = "https://github.com/Sagiv440/Minecraft-World-Generator">Minecraft world Generator (Custom Game Engine OpenGL)</a></li>
+</ul>
+
+<b><h2>👨‍💻 Frontend Projects Projects:</h2></b>
+<ul>
+      <li><a href = "https://github.com/Sagiv440/ReactMidProject">My First React Project</a></li>
+      <li><a href = "https://github.com/Sagiv440/ReactFinalProject">E-Commerce</a></li>
 </ul>
  
 <h2> 🤳 Connect with me:</h2>
