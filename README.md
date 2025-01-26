@@ -1,6 +1,5 @@
 <h1>Hi, I'm Sagiv! <br/>I'm an independent developer for:<br/> Games, Applications, and Fullstack </h1>
 
-🔭 I’m currently working on
 <b><h2>🔭 I’m currently working on</h2></b>
 <ul>
   <li><b>RoboShift: </b><a href="https://www.youtube.com/watch?v=MKdnPXl3_ng">DevLog</a> <a href="https://www.youtube.com/watch?v=sg_2uD6ezKI">Level Showcase</a><br/>
@@ -9,6 +8,17 @@
    <li><b>Fish Season:<br/>
      A mobile game for those who love fishing and blowing up boats while riding the bus. Sail the seas, find your fortune, and oh, don’t forget the fish! 🎣🛥️
   </li><br/>
+</ul>
+
+<b><h2>🌱 I’m currently learning</h2></b>
+<ul>
+  <li><b>Web Development both Forntend and Backend Development <br/>
+    <ul>
+      <li><a href = "https://github.com/Sagiv440/ReactMidProject">My First React Project</a></li>
+      <li><a href = "https://github.com/Sagiv440/ReactFinalProject">E-Commerce</a></li>
+    </ul>
+  </li>
+  <br/>
 </ul>
 
 <b><h2>⚡ Game Development Projects:</h2></b>
@@ -26,21 +36,19 @@
   <li>
     <h3>🥇 Personal Game Porjects:</h3>
     <ul>
-      <li><b>RoboShift: </b><a href="https://www.youtube.com/watch?v=MKdnPXl3_ng">DevLog</a> <a href="https://www.youtube.com/watch?v=sg_2uD6ezKI">Level Showcase</a> </li>
+      <!--<li><b>RoboShift: </b><a href="https://www.youtube.com/watch?v=MKdnPXl3_ng">DevLog</a> <a href="https://www.youtube.com/watch?v=sg_2uD6ezKI">Level Showcase</a> </li> -->
       <li><a href="https://github.com/Sagiv440/Unity_Strategy">Real Time Strategy Game</a></li>
       <li><a href="https://github.com/Sagiv440/Tetris">C++ Tetris</a></li>
     </ul>
   </li>
 </ul>
- 
-<b><h2>👨‍💻 Education Projects:</h2></b>
-  - [NES Emulator](https://github.com/Sagiv440/NES_emulator)
-  - [Minecraft world Generator (Custom Game Engine OpenGL)](https://github.com/Sagiv440/Minecraft-World-Generator)
- 
-<b><h2>✍ Frontend Projects:</h2></b>
-  - [React Mid Project](https://github.com/Sagiv440/ReactMidProject)
-  - [E-Commerce (React Final Project)](https://github.com/Sagiv440/ReactFinalProject)
 
+<b><h2>👨‍💻 Programing Projects:</h2></b>
+<ul>
+      <li><a href = "https://github.com/Sagiv440/NES_emulator">NES Emulator</a></li>
+      <li><a href = "https://github.com/Sagiv440/Minecraft-World-Generator">Minecraft world Generator (Custom Game Engine OpenGL)</a></li>
+</ul>
+ 
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="SagivReuben | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
