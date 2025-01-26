@@ -1,15 +1,33 @@
 <h1>Hi, I'm Sagiv! <br/>I'm an independent developer for:<br/> Games, Applications, and Fullstack </h1>
 
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
 <b><h2>⚡ Game Development Projects:</h2></b>
-  - [Real Time Strategy Game](https://github.com/Sagiv440/Unity_Strategy)
-  - [Game Of Thrones (Hackaton2023)](https://github.com/Sagiv440/Hackaton2023)
-  - [Warm The King (GameJam_Jerusalim_2022)](https://github.com/Sagiv440/GameJam_Jerusalim_2022)
-  - [Crusader Legacy (GlobalGameJam2023)](https://github.com/Sagiv440/GlobalGameJam2023)
-  - [Grampa And Me (GlobalGameJam2024)](https://github.com/TechArtGeorgi/GGJ-2024-Haifa)
-  - [Bubble Bi Bubble Boo (GlobalGameJam2025)](https://github.com/Sagiv440/GlobalGameJam2025)
+<ul>
+  <li>
+    <h3>😺 My Game Jam Games:</h3>
+    <ul>
+      <li><a href="https://github.com/Sagiv440/Hackaton2023">Game Of Thrones (Hackaton2023)</a></li>
+      <li><a href="https://github.com/Sagiv440/GameJam_Jerusalim_2022">Warm The King (GameJam_Jerusalim_2022)</a></li>
+      <li><a href="https://github.com/Sagiv440/GlobalGameJam2023">Crusader Legacy (GlobalGameJam2023)</a></li>
+      <li><a href="https://github.com/TechArtGeorgi/GGJ-2024-Haifa">Grampa And Me (GlobalGameJam2024)</a></li>
+      <li><a href="https://github.com/Sagiv440/GlobalGameJam2025">Bubble Bi Bubble Boo (GlobalGameJam2025)</a></li>
+    </ul>
+  </li>
+  <li>
+    <h3>🥇 Personal Game Porjects:</h3>
+    <ul>
+      <li><b>RoboShift: </b><a href="https://www.youtube.com/watch?v=MKdnPXl3_ng">DevLog</a> <a href="https://www.youtube.com/watch?v=sg_2uD6ezKI">Level Showcase</a> </li>
+      <li><a href="https://github.com/Sagiv440/Unity_Strategy">Real Time Strategy Game</a></li>
+      <li><a href="https://github.com/Sagiv440/Tetris">C++ Tetris</a></li>
+    </ul>
+  </li>
+</ul>
  
-<b><h2>👨‍💻 Application Projects:</h2></b>
-  - [C++ Tetris](https://github.com/Sagiv440/Tetris)
+<b><h2>👨‍💻 Education Projects:</h2></b>
   - [NES Emulator](https://github.com/Sagiv440/NES_emulator)
   - [Minecraft world Generator (Custom Game Engine OpenGL)](https://github.com/Sagiv440/Minecraft-World-Generator)
  
