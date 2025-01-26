@@ -6,6 +6,7 @@
   - [Warm The King (GameJam_Jerusalim_2022)](https://github.com/Sagiv440/GameJam_Jerusalim_2022)
   - [Crusader Legacy (GlobalGameJam2023)](https://github.com/Sagiv440/GlobalGameJam2023)
   - [Grampa And Me (GlobalGameJam2024)](https://github.com/TechArtGeorgi/GGJ-2024-Haifa)
+  - [Bubble Bi Bubble Boo (GlobalGameJam2025)](https://github.com/Sagiv440/GlobalGameJam2025)
  
 <b><h2>👨‍💻 Application Projects:</h2></b>
   - [C++ Tetris](https://github.com/Sagiv440/Tetris)
