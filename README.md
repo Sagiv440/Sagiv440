@@ -5,7 +5,7 @@
   <li><b>RoboShift: </b><a href="https://www.youtube.com/watch?v=MKdnPXl3_ng">DevLog</a> <a href="https://www.youtube.com/watch?v=sg_2uD6ezKI">Level Showcase</a><br/>
     A Sci-fi Shooter that will tack you the depths of dispare as you fight for your very servivile Trapped in a desolate, machine-dominated world, every battle is a struggle, every exploration a risk, and every moment a fight for survival.
   </li><br/>
-   <li><b>Fish Season:<br/>
+   <li><b>Fish Season:</b><br/>
      A mobile game for those who love fishing and blowing up boats while riding the bus. Sail the seas, find your fortune, and oh, don’t forget the fish! 🎣🛥️
   </li><br/>
 </ul>
