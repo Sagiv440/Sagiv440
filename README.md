@@ -1,5 +1,8 @@
 <h1>Hi, I'm Sagiv! </h1><h2>A passionate developer at heart and in mind. I bring worlds to life with love, dedication, and a touch of creativity.</h2>
-<b>Link to: </b><a href="https://www.youtube.com/watch?v=1RQqJjkSFZA">My Project Showcase</a>
+<b><h2>🚀 My Game Dev Journey – Showcase 🎮</h2></b>
+<b><a href="https://www.youtube.com/watch?v=1RQqJjkSFZA" target="_blank">
+    <img src="https://img.youtube.com/vi/1RQqJjkSFZA/maxresdefault.jpg" alt="Watch the video" width="300">
+</a></b>
 <b><h2>🔭 I’m currently working on</h2></b>
 <ul>
   <li><b>RoboShift: </b><a href="https://www.youtube.com/watch?v=MKdnPXl3_ng">DevLog</a> <a href="https://www.youtube.com/watch?v=sg_2uD6ezKI">Level Showcase</a><br/>
