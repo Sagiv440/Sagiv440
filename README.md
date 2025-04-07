@@ -9,8 +9,8 @@ Linke to my website: <a href="https://sagiv440.github.io/sagiv-reuben/">here</a>
   <li><b>RoboShift: </b><a href="https://www.youtube.com/watch?v=MKdnPXl3_ng">DevLog</a> <a href="https://www.youtube.com/watch?v=sg_2uD6ezKI">Level Showcase</a><br/>
     A Sci-fi Shooter that will tack you the depths of dispare as you fight for your very servivile Trapped in a desolate, machine-dominated world, every battle is a struggle, every exploration a risk, and every moment a fight for survival.
   </li><br/>
-   <li><b>Fish Season:</b><br/>
-     A mobile game for those who love fishing and blowing up boats while riding the bus. Sail the seas, find your fortune, and oh, don’t forget the fish! 🎣🛥️
+   <li><b>Fish Season: </b><a href="https://store.steampowered.com/app/3602600/Fish_Season/">Steam Page</a><br/>
+     A small casual fishing game where every round is bite-sized, and the competition is fierce for every fish. On the dock, you can use the fish you've collected to buy upgrades and repair your damaged vessel. And in desperate times, you can even fire your fish at your rivals. Good luck !
   </li><br/>
 </ul>
 
